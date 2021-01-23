@@ -1,11 +1,3 @@
-// Zoom Annotations (Basic)
-// Coding Challenge
-// The Coding Train / Daniel Shiffman
-// https://thecodingtrain.com/CodingChallenges/157-zoom-annotations.html
-// https://youtu.be/
-
-// Basic: https://editor.p5js.org/codingtrain/sketches/EaioB_iJs
-// Final: https://editor.p5js.org/codingtrain/sketches/ELpl_VAqs
 
 // Classifier Variable
 let classifier;
